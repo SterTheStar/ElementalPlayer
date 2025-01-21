@@ -267,7 +267,7 @@ O uso do ElementalPlayer está sujeito aos termos da [Licença Proprietária do 
 
 ❌ Modificar o código-fonte
 
-❌ Criar trabalhos derivados
+❌ Criar trabalhos derivados sem a devida autorização
 
 ❌ Realizar engenharia reversa
 
