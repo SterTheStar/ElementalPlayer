@@ -256,15 +256,23 @@ ElementalPlayer é um software proprietário protegido por direitos autorais. To
 O uso do ElementalPlayer está sujeito aos termos da [Licença Proprietária do ElementalPlayer](LICENSE).
 
 ### Permissões:
+
 ✅ Usar em projetos comerciais e não-comerciais
+
 ✅ Personalizar a aparência usando variáveis CSS oficiais
+
 ✅ Integrar em websites e aplicações
 
 ### Restrições:
+
 ❌ Modificar o código-fonte
+
 ❌ Criar trabalhos derivados
+
 ❌ Realizar engenharia reversa
+
 ❌ Redistribuir o software
+
 ❌ Remover ou alterar a marca ElementalPlayer
 
 ---
